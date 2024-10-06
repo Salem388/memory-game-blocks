@@ -67,7 +67,7 @@
 function renderMemoryGame() {
 
     // General Variables
-    const duration = 500;
+    const duration = 600;
     let wrongTriesCount = 0;
 
     // DOM Elements
